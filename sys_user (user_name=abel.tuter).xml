@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-10-13 00:56:08">
+<sys_user action="INSERT_OR_UPDATE">
+<active>true</active>
+<avatar>eb513744c3222010ae17dd981840dd97</avatar>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value="ACME South America">227cdfb03710200044e0bfc8bcbe5d6b</company>
+<cost_center display_value="Engineering">d9d07bddc0a80a647cf932056ed24652</cost_center>
+<country/>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value="Product Management">9a7ed3f03710200044e0bfc8bcbe5db7</department>
+<edu_status>faculty</edu_status>
+<email>abel.tuter@example.com</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<first_name>Abel</first_name>
+<gender>Male</gender>
+<hashed_user_id>5402940c684f3f84ef670308764ddde85a8751671b3cca0a00723b18ef5aadaf</hashed_user_id>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time/>
+<last_name>Tuter</last_name>
+<last_password/>
+<ldap_server display_value=""/>
+<location display_value="SHS quadra 5, Bloco E., Brasilia">25b3d04b0a0a0bb300176b546c22db27</location>
+<locked_out>false</locked_out>
+<manager display_value=""/>
+<middle_name/>
+<mobile_phone/>
+<name>Abel Tuter</name>
+<notification>2</notification>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<state/>
+<street/>
+<sys_class_name>sys_user</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2012-02-18 03:04:52</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>62826bf03710200044e0bfc8bcbe5df1</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>developer.program@snc</sys_updated_by>
+<sys_updated_on>2022-10-04 11:22:19</sys_updated_on>
+<time_format/>
+<time_zone/>
+<title/>
+<user_name>abel.tuter</user_name>
+<user_password>wNu55PZoES</user_password>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</sys_user>
+</unload>
